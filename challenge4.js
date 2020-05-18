@@ -16,3 +16,7 @@ function getcookie() {
         }
     }
 }
+
+function test(){
+    alert("Correct test");
+}
